@@ -1,6 +1,6 @@
-If "jsbeautifier.org":base ir currently down for you, then you can thank GoDaddy for that, as they — without any reason — have blocked ALL of my hosting company's domains, registered via GoDaddy.
+If "jsbeautifier.org":base ir currently down for you, then you can thank GoDaddy for that, as they — without any reason — have blocked ALL of my hosting company's domains, registered via them.
 
-Don't do business with godaddy.
+Don't do business with godaddy, I'll say.
 
 For your beautifying needs, you can use the mirror at "http://spicausis.lv/jsbeautifier.org/":mirror
 
