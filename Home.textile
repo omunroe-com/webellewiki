@@ -1,1 +1,7 @@
-Welcome to the js-beautify wiki!
+If jsbeautifier.org ir currently down for you, then you can thank GoDaddy for that, as they — without any reason — have blocked ALL of my hosting company's domains, registered via GoDaddy.
+
+Don't do business with godaddy.
+
+For your beautifying needs, you can use the mirror at http://spicausis.lv/jsbeautifier.org/
+
+Einar.
